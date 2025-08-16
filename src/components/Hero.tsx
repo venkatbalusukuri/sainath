@@ -64,7 +64,7 @@ const Hero = () => {
               <div className="absolute inset-2 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-full opacity-30 animate-spin-slow"></div>
               <div className="absolute inset-4 bg-gray-800 rounded-full flex items-center justify-center border-2 border-cyan-500/30">
                 <img
-                  src="../../../s.jpg"
+                  src="https://tse4.mm.bing.net/th/id/OIP.QElp_v7Q4VurAi0eVZNgdgHaHa?r=0&w=1000&h=1000&rs=1&pid=ImgDetMain&o=7&rm=3"
                   alt="Gade Sainath"
                   className="w-full h-full object-cover rounded-full"
                 />
